@@ -4,7 +4,7 @@ Loreti-Pegoraro
 ## Project Description
 This project analyzes taxi trip data in New York City, based on a provided dataset. The goal is to complete a series of analyses on the data, including extractions, clustering, and calculations on various attributes.
 
-#Task
+# Task
 1. Extract all trips with trip_distance larger than 50
 2. Extract all trips where payment_type is missing
 3. For each (PULocationID, DOLocationID) pair, determine the number of trips
